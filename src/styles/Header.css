@@ -1,0 +1,23 @@
+h2, h1 {
+  margin: 0;
+}
+
+.score {
+  border: black 2px solid;
+  border-radius: 5px;
+  width: 12rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+  margin-right: 20px;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rules {
+  margin-right: 150px;
+}
